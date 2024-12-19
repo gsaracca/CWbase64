@@ -2,7 +2,7 @@
 /*                                                                            */
 /*   cwB64.cpp                                                                */
 /*   adapted fron GPL code for Clarion For Windows by John Griffiths - 2009   */
-/*     globaljohn@gmail.com                                                   */
+/*   Published with express permission of the author                          */
 /*                                                                            */
 /*   Description: Base64 encode and Decode CPP source for Clarion             */                      
 /*   Tested and supplied without any warranty. Use at your own risk           */
